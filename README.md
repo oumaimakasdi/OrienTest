@@ -7,6 +7,6 @@ d’éviter les mauvais choix et mettre la bonne personne au bon endroit
  
  # Techniques utilisés
  L’environnement SWI PROLOG
-SWI-Prolog  est un environnement gratuit et complet pour le langage de programmation Prolog
--Langage de programmation PROLOG
--Interface graphique XPCE
+SWI-Prolog  est un environnement gratuit et complet pour le langage de programmation Prolog:
+Langage de programmation PROLOG
+Interface graphique XPCE
